@@ -1,0 +1,4 @@
+Hello everyone,
+
+Welcome on the official journey of python (2023).
+
